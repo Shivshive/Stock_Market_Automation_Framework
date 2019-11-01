@@ -14,59 +14,68 @@
       <guid>344e40b0-fd71-42f7-87bd-3ca2b15c5f94</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Workflow/Workflow_SELL_INTRA_N_SL</testCaseId>
+      <testCaseId>Test Cases/Workflow/Prod/SELL_INTRA_N_SL_Workflows/Workflow_SELL_INTRA_N_SL_Rishi</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>700b2b00-41ed-4e5e-9dde-6646c0654d55</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Orders</testDataId>
+      </testDataLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <type>SCRIPT_VARIABLE</type>
+         <value>null</value>
          <variableId>bce5f137-173e-4b97-a50f-4724710cfddb</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <type>SCRIPT_VARIABLE</type>
+         <value>null</value>
          <variableId>def9f410-55a6-4616-8cf0-241e50ccbad9</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <type>SCRIPT_VARIABLE</type>
+         <value>null</value>
          <variableId>a2c48407-4728-4ea3-86d7-ca0bffa72920</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <type>SCRIPT_VARIABLE</type>
+         <value>null</value>
          <variableId>7989e192-eb75-4eca-b7cf-3c8f93692038</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <type>SCRIPT_VARIABLE</type>
+         <value>null</value>
          <variableId>d5786c5e-941e-4723-9301-87dc33ac4a7e</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <type>SCRIPT_VARIABLE</type>
+         <value>null</value>
          <variableId>62095f96-61d9-4bd3-b0b3-ac0ab5b2ccf2</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <type>SCRIPT_VARIABLE</type>
+         <value>null</value>
          <variableId>276603c3-515e-45ac-8751-03ae7995b55d</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <type>SCRIPT_VARIABLE</type>
+         <value>null</value>
          <variableId>62d82f87-4d60-4686-a0c1-e93cfe09b225</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <type>SCRIPT_VARIABLE</type>
+         <value>null</value>
          <variableId>23ff3da4-de5b-4154-b0d1-761c26cdde06</variableId>
       </variableLink>
    </testCaseLink>

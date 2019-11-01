@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Identify_Row_Square_Off</name>
+   <tag></tag>
+   <elementGuidId>1e4fa6e3-cbff-48c1-9beb-55939c80f9cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;otherReports_table_tbody&quot;]/tr[td[@class='aL']]/td[@class='aL']/span[normalize-space(text())='HDFC']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

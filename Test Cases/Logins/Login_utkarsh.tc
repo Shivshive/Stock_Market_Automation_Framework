@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_utkarsh</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d63ae1b2-fb14-449b-851e-3c2aa86f49a1</testCaseGuid>
+   <variable>
+      <defaultValue>'U16115'</defaultValue>
+      <description></description>
+      <id>965e4067-702b-4a59-abdc-1a5f41a4fdb1</id>
+      <masked>false</masked>
+      <name>userID</name>
+   </variable>
+   <variable>
+      <defaultValue>'loveumom8'</defaultValue>
+      <description></description>
+      <id>ef977060-de58-45cf-95a0-8206f34deda7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

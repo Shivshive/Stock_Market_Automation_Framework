@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Square_off_tc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>349a0862-fa6f-4b85-a9cb-717e5f0edd1e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3d1749b5-a2e6-471b-81d7-5288c03435e1</id>
+      <masked>false</masked>
+      <name>current_symbol</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>64232d87-1806-4df0-b943-91fea2c9e122</id>
+      <masked>false</masked>
+      <name>sqr_ff_price</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13965130-0e3e-4782-8518-88f13f5372a2</id>
+      <masked>false</masked>
+      <name>SquareOff_L_MKT</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a76771c-7561-4749-aa24-5481258f8724</id>
+      <masked>false</masked>
+      <name>SquareOff_Quantity</name>
+   </variable>
+</TestCaseEntity>

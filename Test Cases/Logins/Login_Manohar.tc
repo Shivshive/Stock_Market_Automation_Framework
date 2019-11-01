@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Manohar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51654e5d-1a2b-4477-b9c6-f84767f8ca13</testCaseGuid>
+   <variable>
+      <defaultValue>'M137505'</defaultValue>
+      <description></description>
+      <id>9bead95e-8947-4d3a-a599-89d54910c77c</id>
+      <masked>false</masked>
+      <name>userID</name>
+   </variable>
+   <variable>
+      <defaultValue>'HHBM123hhbm'</defaultValue>
+      <description></description>
+      <id>0335d05a-1269-4afb-8093-de6d39442b68</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

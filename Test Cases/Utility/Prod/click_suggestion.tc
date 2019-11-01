@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_suggestion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbf6170d-80c4-4f1f-94bb-ebe629b36cd3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04a5c0f7-f937-4514-a120-20dc348dda51</id>
+      <masked>false</masked>
+      <name>s</name>
+   </variable>
+</TestCaseEntity>

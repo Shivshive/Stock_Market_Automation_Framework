@@ -20,7 +20,7 @@ import internal.GlobalVariable
 public class AddKeyword {
 	@Keyword
 	public static TestObject createTestObject(String objectName, String xpath){
-		
+
 		TestObject to = new TestObject(objectName)
 		to.getSelectorCollection().put(SelectorMethod.XPATH, xpath)
 		to.setSelectorMethod(SelectorMethod.XPATH)
